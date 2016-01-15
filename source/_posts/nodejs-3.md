@@ -1,7 +1,7 @@
 title: Node.js Day 03
 date: 2015-03-15 20:43:24
 tags: Node.js
-categories: Node.js
+categories: Nodejs
 description: play with nodejs routing
 ---
 

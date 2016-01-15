@@ -1,4 +1,6 @@
 title: Write acceptance tests with codeception
+tags: BDD, codeception
+categories: Tests
 description: This is a brief step by step guide to use `CodeCeption` to create a basic but very useful tests for API endpoint. I do prefer Codeception over Behat for web acceptance, specially if some tests should be implemented as simple as possible and as faster as possible.
 toc: true
 ---

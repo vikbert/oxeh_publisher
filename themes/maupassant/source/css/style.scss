@@ -249,7 +249,11 @@ a:focus{
                  font-size: 0.9em;
                    margin-top: 0.1em;
                    position: relative;
-                text-align: center;
+                    display:table;
+                margin:0 auto !important;
+            }
+            span.caption {
+         
             }
         }
         hr {

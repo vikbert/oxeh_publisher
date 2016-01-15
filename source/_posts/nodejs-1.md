@@ -1,7 +1,7 @@
 title: Node.js Day 01
 date: 2015-02-28 16:30:02
 tags: Node.js
-categories: Node.js
+categories: Nodejs
 description: play with ode.js，introduce js、Node.js and the first server side hello world program
 ---
 

@@ -1,7 +1,7 @@
 title: Node.js Day 04
 date: 2015-04-12 21:27:16
 tags: Node.js
-categories: Node.js
+categories: Nodejs
 description: using socket.io to implement a simple chatting room. The project will use features of Socket.IO, suche as emit(), on().
 ---
 

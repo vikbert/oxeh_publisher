@@ -1,7 +1,7 @@
 title: Node.js Day 02
 date: 2015-03-07 19:24:32
 tags: Node.js
-categories: Node.js
+categories: Nodejs
 description: deep into nodejs HTTP service and modularized the code
 ---
 
