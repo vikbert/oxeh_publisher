@@ -5,7 +5,7 @@ categories: symfony2
 toc: true
 ---
 
-This article summaried the my know-how about doing i18n in symfony2 project. There are some essential packages and bundles, which I used in my system to apply i18n easier. We have to installed them into your symfony 2 project at first. Looking only in templates for strings to translate is wrong – with Symfony2 they can come from a hell lot of places. That’s part of what `JMSTranslationBundle` tries to solve with extractors for:
+This article summaried the my know-how about doing translations in symfony2 project. There are some essential packages and bundles, which I used in my system to apply i18n easier. We have to installed them into your symfony 2 project at first. Looking only in templates for strings to translate is wrong – with Symfony2 they can come from a hell lot of places. That’s part of what `JMSTranslationBundle` tries to solve with extractors for:
 
 - all calls to the `trans`, or `transChoice` method within PHP files
 - all classes implementing the 'TranslationContainerInterface'
