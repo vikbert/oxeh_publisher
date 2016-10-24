@@ -1,13 +1,17 @@
 # Hexo Blog
 
 
-### create a new page
+## create a new page
 
-    hexo new page about
+    hexo new page new_page_name
 
+## How to deply
 
+```
+$ hexo generate && hexo deploy
+```
 
-### deploy to github.io
+## install deploy plugin
 
     npm install hexo-deployer-git --save
 
